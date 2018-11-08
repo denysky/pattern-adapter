@@ -1,0 +1,12 @@
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\bin\Debug\LumChine.dll
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\bin\Debug\LumChine.pdb
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\obj\Debug\LumChine.csprojAssemblyReference.cache
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\obj\Debug\LumChine.csproj.CoreCompileInputs.cache
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\obj\Debug\LumChine.dll
+C:\Users\cd10rega\source\repos\TestConsole\LumChine\obj\Debug\LumChine.pdb
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\bin\Debug\LumChine.dll
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\bin\Debug\LumChine.pdb
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\obj\Debug\LumChine.csprojAssemblyReference.cache
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\obj\Debug\LumChine.csproj.CoreCompileInputs.cache
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\obj\Debug\LumChine.dll
+C:\Users\cd10rega\Desktop\TestConsole\LumChine\obj\Debug\LumChine.pdb
